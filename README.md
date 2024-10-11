@@ -1,4 +1,10 @@
+For running the app you should run :
 
+In book_library_app_mock_server run: 
+   npm install
+
+
+   
 ## Available Scripts
 
 In the project directory, you can run:
